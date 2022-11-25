@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/vaish248" target="blank"><img src="https://img.shields.io/twitter/follow/vaish248?logo=twitter&style=for-the-badge" alt="vaish248" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development, Cloud Computing**
+
 
 - 📫 How to reach me **bholanevaishnavi755@gmail.com**
 
